@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "postImg": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg",
+        "authorImg": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+        "authName": "Mr.Raju",
+        "authPablishDate": "Mar 14 (4 Days ago)",
+        "postHeading": "How to get your first job as a self-taught programmer ",
+        "postTag": " #beginners,#programming ",
+        "postReadingTime": "12 min read "
+    },
+    {
+        "id": "2",
+        "postImg": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg",
+        "authorImg": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/short/linkedin-profile-picture-maker/dummy_image/thumb/004.webp",
+        "authName": "Alice Smith",
+        "authPablishDate": "2023-08-18",
+        "postHeading": "Discovering New Horizons",
+        "postTag": " #beginners,#programming ",
+        "postReadingTime": "8 min read "
+    },
+    {
+        "id": "3",
+        "postImg": "https://cdn.pixabay.com/photo/2015/11/09/14/43/laptop-1035345_1280.jpg",
+        "authorImg": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+        "authName": "Mrs. Setara",
+        "authPablishDate": "Mar 14 (4 Days ago)",
+        "postHeading": "How to get your first job as a self-taught programmer ",
+        "postTag": " #beginners,#programming ",
+        "postReadingTime": "10 min read "
+    },
+    {
+        "id": "4",
+        "postImg": "https://cdn.pixabay.com/photo/2016/11/19/15/32/code-1839877_1280.jpg",
+        "authorImg": "https://media.istockphoto.com/id/1318482009/photo/young-woman-ready-for-job-business-concept.webp?b=1&s=170667a&w=0&k=20&c=qr9IZO49bYbal9ID9FzvVDe_V6GdcZhY9a3eGbeL4E0=",
+        "authName": "Mr.Raju",
+        "authPablishDate": "Mar 14 (4 Days ago)",
+        "postHeading": "How to get your first job as a self-taught programmer ",
+        "postTag": " #beginners,#programming ",
+        "postReadingTime": " min read "
+    },
+    {
+        "id": "5",
+        "postImg": "https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_1280.png",
+        "authorImg": "https://media.istockphoto.com/id/1452895487/photo/portrait-of-a-charming-business-woman-in-the-office.webp?b=1&s=170667a&w=0&k=20&c=v3Sn_TC5LUQlQ8cxchqVgfO_6Gnwm2ztm7d2GPznqDw=",
+        "authName": "Mr.Raju",
+        "authPablishDate": "Mar 14 (4 Days ago)",
+        "postHeading": "How to get your first job as a self-taught programmer ",
+        "postTag": " #beginners,#programming ",
+        "postReadingTime": " min read "
+    },
+    {
+        "id": "6",
+        "postImg": "https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png",
+        "authorImg": "https://media.istockphoto.com/id/1391946157/photo/portrait-of-a-business-woman-working-with-a-laptop-on-a-desk-in-a-spacious-office-looking-at.jpg?s=612x612&w=0&k=20&c=DDsxjgnv0ZLR3ea4FImtQ65tqyW28tUfiNjwgfToAM4=",
+        "authName": "Mr.Raju",
+        "authPablishDate": "Mar 14 (4 Days ago)",
+        "postHeading": "How to get your first job as a self-taught programmer ",
+        "postTag": " #beginners,#programming ",
+        "postReadingTime": " min read "
+    }
+]
